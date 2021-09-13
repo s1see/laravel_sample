@@ -397,7 +397,7 @@
             }
         }
     </style>
-    <link rel="stylesheet" type="text/css" href="{{ asset('/css/welcome.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/css/style.css') }}">
     <script src="{{ asset('/js/welcome.js') }}" type="text/javascript" defer></script>
 
     <style>
@@ -412,13 +412,12 @@
 
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class="text">
-                <p>Nachos are</p>
+                <p>I am</p>
                 <p>
-                    <span class="word wisteria">tasty.</span>
-                    <span class="word belize">wonderful.</span>
-                    <span class="word pomegranate">fancy.</span>
-                    <span class="word green">beautiful.</span>
-                    <span class="word midnight">cheap.</span>
+                    <span class="word wisteria">a student.</span>
+                    <span class="word belize">coder.</span>
+                    <span class="word pomegranate">h4ck3r.</span>
+                    <span class="word green">s1see.</span>
                 </p>
             </div>
         </div>
