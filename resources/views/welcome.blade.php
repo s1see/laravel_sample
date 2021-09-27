@@ -412,12 +412,11 @@
 
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class="text">
-                <p>I am</p>
+                <p>I am a</p>
                 <p>
-                    <span class="word wisteria">a student.</span>
+                    <span class="word wisteria">student.</span>
                     <span class="word belize">coder.</span>
                     <span class="word pomegranate">h4ck3r.</span>
-                    <span class="word green">s1see.</span>
                 </p>
             </div>
         </div>
